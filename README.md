@@ -1,3 +1,3 @@
 # Zero-Order-DC
 
-A demo exhibiting Zero-Order DC for CoX (Survival analysis) and XGBoost (Classification).
+A demo illustrating Zero-Order DC for CoX (Survival analysis) and XGBoost (Classification).
